@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 local.R
+.pyc
+.idea/*
+*.pyc
